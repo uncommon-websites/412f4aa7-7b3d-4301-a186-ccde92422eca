@@ -23,7 +23,7 @@ A minimalist teaser for the about page.
 	const teamMember: TeamMember = {
 		name: "Alex Morgan",
 		role: "Founder & CEO",
-		image: "https://www.unc.mn/image-placeholder.svg"
+		image: "/generated/image-a-professional-founder-standing-confiden.webp"
 	};
 </script>
 
@@ -32,7 +32,7 @@ A minimalist teaser for the about page.
 		<div class="relative mx-auto grid max-w-2xl place-items-center gap-16">
 			<ScrollText
 				class="text-title1 text-center"
-				text={`"We're building the future of digital experiences, crafting innovative solutions that transform how people interact with technology in their everyday lives"`}
+				text={`"I watched acquisitions teams at top sponsors lose $100M+ deals because critical terms were buried in email threads and stale spreadsheets. We're building Ferrus to give them the same data infrastructure advantage that tech companies take for granted."`}
 			/>
 
 			<!-- Team Member & CTA Section -->

@@ -1,7 +1,7 @@
 export const CONFIG = {
-	companyName: "Company",
-	description: "Description",
+	companyName: "Ferrus",
+	description: "AI-native pipeline and deal-tracking workspace for acquisitions, capital markets, and development teams. Turn deal chaos into pipeline clarity.",
 	image: "/og.png",
-	url: "https://example.com",
+	url: "https://ferrus.com",
 	fontFamily: "Inter Variable"
 };

@@ -1,5 +1,5 @@
 <!-- DO NOT EDIT - Managed by todo_list tool -->
-<!-- Updated: 2025-11-12T11:41:22.420Z -->
+<!-- Updated: 2025-11-12T11:43:07.341Z -->
 
 # Current Todo List State
 
@@ -16,3 +16,9 @@
 - [x] Remove all generating props from the Hero component
 - [x] Run comprehensive error check and fix all issues
 - [x] Final design system compliance check
+- [x] Call update_brand_variables tool to generate and apply brand configuration
+- [x] View app.html and theme.css to understand current structure
+- [x] Update app.html to set data-theme='dark'
+- [x] Update theme.css to uncomment dark mode block
+- [x] View and update lib/content/index.ts with Ferrus brand metadata
+- [x] Run comprehensive error check and fix all issues

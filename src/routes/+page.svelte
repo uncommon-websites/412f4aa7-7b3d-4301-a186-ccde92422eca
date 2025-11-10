@@ -10,12 +10,20 @@
 </script>
 
 <Hero
-	title="Elevate your business with thoughtful design"
-	subtitle="Solutions that enhance user experience, and improve visual communication."
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
-	generating
+	title="Every deal, structured and in sync"
+	subtitle="Ferrus transforms scattered emails, spreadsheets, and models into a live workspace where every acquisition stays connected to underwriting."
+	imageSrc="/generated/image-a-diverse-commercial-real-estate-team-co.webp"
+	centered={false}
 />
-<LogoScroller label="" generating />
+<LogoScroller
+	label="Trusted by industry leaders"
+	logoUrls={[
+		'https://cdn.brandfetch.io/blackstone.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/brookfield.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/cbre.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/hines.com/w/400/h/400/logo'
+	]}
+/>
 
 <Summary
 	generating
